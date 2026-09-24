@@ -1,0 +1,15 @@
+C:\Users\Администратор\Documents\Lab4_ISRPO_Prosvirov\obj\Debug\net10.0\Lab4_ISRPO_Prosvirov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Documents\Lab4_ISRPO_Prosvirov\obj\Debug\net10.0\Lab4_ISRPO_Prosvirov.AssemblyInfoInputs.cache
+C:\Users\Администратор\Documents\Lab4_ISRPO_Prosvirov\obj\Debug\net10.0\Lab4_ISRPO_Prosvirov.AssemblyInfo.cs
+C:\Users\Администратор\Documents\Lab4_ISRPO_Prosvirov\obj\Debug\net10.0\Lab4_ISRPO_Prosvirov.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Documents\Lab4_ISRPO_Prosvirov\obj\Debug\net10.0\Lab4_ISRPO_Prosvirov.sourcelink.json
+C:\Users\Администратор\Documents\Lab4_ISRPO_Prosvirov\bin\Debug\net10.0\Lab4_ISRPO_Prosvirov.exe
+C:\Users\Администратор\Documents\Lab4_ISRPO_Prosvirov\bin\Debug\net10.0\Lab4_ISRPO_Prosvirov.deps.json
+C:\Users\Администратор\Documents\Lab4_ISRPO_Prosvirov\bin\Debug\net10.0\Lab4_ISRPO_Prosvirov.runtimeconfig.json
+C:\Users\Администратор\Documents\Lab4_ISRPO_Prosvirov\bin\Debug\net10.0\Lab4_ISRPO_Prosvirov.dll
+C:\Users\Администратор\Documents\Lab4_ISRPO_Prosvirov\bin\Debug\net10.0\Lab4_ISRPO_Prosvirov.pdb
+C:\Users\Администратор\Documents\Lab4_ISRPO_Prosvirov\obj\Debug\net10.0\Lab4_ISRPO_Prosvirov.dll
+C:\Users\Администратор\Documents\Lab4_ISRPO_Prosvirov\obj\Debug\net10.0\refint\Lab4_ISRPO_Prosvirov.dll
+C:\Users\Администратор\Documents\Lab4_ISRPO_Prosvirov\obj\Debug\net10.0\Lab4_ISRPO_Prosvirov.pdb
+C:\Users\Администратор\Documents\Lab4_ISRPO_Prosvirov\obj\Debug\net10.0\Lab4_ISRPO_Prosvirov.genruntimeconfig.cache
+C:\Users\Администратор\Documents\Lab4_ISRPO_Prosvirov\obj\Debug\net10.0\ref\Lab4_ISRPO_Prosvirov.dll
